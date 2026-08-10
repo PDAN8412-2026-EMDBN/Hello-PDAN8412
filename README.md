@@ -113,10 +113,3 @@ This module rewards consistent practical effort.
 * You must be careful when using LLMs, tutorials or Kaggle notebooks.
 * Spark must be used where the assessment requires it.
 * GitHub and ARC submissions are both important.
-
-## 👋 Who am I?
-My name is **Ebrahim**, but many people call me **EB** — and that’s fine.
-
-I am a CS Lecturer and Researcher. I do not really like writing about myself, but I am open to questions.
-
-🔗 You can find me on 
