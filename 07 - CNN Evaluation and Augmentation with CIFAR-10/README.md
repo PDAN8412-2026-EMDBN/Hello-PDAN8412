@@ -6,8 +6,6 @@ This activity continues the CNN work from Activity 06, but now uses a different 
 
 The purpose is not only to get a working model. The purpose is to understand why colour image classification is more difficult, how image shape changes from grayscale to RGB, how overfitting appears in CNNs, and how basic augmentation can help a model generalise.
 
-This gives the CNN topic a proper second evening without turning Activity 07 into a disconnected theory session.
-
 ## Why are we doing this?
 
 Fashion-MNIST is useful for a first CNN because the images are small and simple. Real image-classification problems are usually messier. Colour images have three channels, objects vary more, backgrounds differ, and classes may be visually similar.
